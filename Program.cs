@@ -9,7 +9,7 @@ namespace Generic_non
     {
         static void Main(string[] args)
         {
-
+            // Line Add from GitHub
             //for HashTable
             //Hashtable ht = new Hashtable();
             //ht.Add(1, 2);
